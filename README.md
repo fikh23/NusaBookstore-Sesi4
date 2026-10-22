@@ -1,17 +1,61 @@
 # tugas_sesi_3
 
-A new Flutter project.
+# NusaBookstore — Tugas PPM Sesi 4
 
-## Getting Started
+Aplikasi katalog dan keranjang belanja buku berbasis Flutter dengan state management menggunakan Provider.
 
-This project is a starting point for a Flutter application.
+## Identitas
 
-A few resources to get you started if this is your first Flutter project:
+- **Nama:** Fikri Zakaria
+- **NIM:** 20240040067
+- **Mata Kuliah:** Pemrograman Perangkat Mobile
+- **Tugas:** Sesi 4 — State Management dengan Provider
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Fitur Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Katalog minimal empat buku.
+- Menambahkan buku ke keranjang.
+- Mengubah jumlah dan menghapus item keranjang.
+- Badge jumlah item pada ikon keranjang.
+- Perhitungan total harga secara reaktif.
+- Light Mode dan Dark Mode.
+- Checkout dengan notifikasi SnackBar dan pengosongan keranjang.
+
+## Teknologi
+
+- Flutter
+- Dart
+- Provider
+- ChangeNotifier
+
+## Struktur Project
+
+- `lib/main.dart`
+- `lib/models/book.dart`
+- `lib/providers/cart_provider.dart`
+- `lib/providers/theme_provider.dart`
+- `lib/screens/catalog_screen.dart`
+- `lib/screens/cart_screen.dart`
+
+## Screenshot Aplikasi
+
+### 1. Katalog Buku
+![Katalog Buku](screenshots/1.jpg)
+
+### 2. Tampilan Keranjang
+![Tampilan Keranjang](screenshots/2.jpg)
+
+### 3. Screenshot Aplikasi 3
+![Screenshot Aplikasi 3](screenshots/3.jpg)
+
+### 4. Screenshot Aplikasi 4
+![Screenshot Aplikasi 4](screenshots/4.jpg)
+
+### 5. Screenshot Aplikasi 5
+![Screenshot Aplikasi 5](screenshots/5.jpg)
+
+## Cara Menjalankan
+
+```bash
+flutter pub get
+flutter run
