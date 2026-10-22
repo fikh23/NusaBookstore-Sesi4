@@ -39,9 +39,12 @@ Aplikasi katalog dan keranjang belanja buku berbasis Flutter dengan state manage
 
 ## Screenshot Aplikasi
 
-(screenshots/1.jpg)
+![Foto 1](screenshots/1.jpg)
 
-(screenshots/2.jpg)
-(screenshots/3.jpg)
-(screenshots/4.jpg)
-(screenshots/5.jpg)
+![Foto 2](screenshots/2.jpg)
+
+![Foto 3](screenshots/3.jpg)
+
+![Foto 4](screenshots/4.jpg)
+
+![Foto 5](screenshots/5.jpg)
