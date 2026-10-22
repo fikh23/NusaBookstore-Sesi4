@@ -39,23 +39,9 @@ Aplikasi katalog dan keranjang belanja buku berbasis Flutter dengan state manage
 
 ## Screenshot Aplikasi
 
-### 1. Katalog Buku
-![Katalog Buku](screenshots/1.jpg)
+(screenshots/1.jpg)
 
-### 2. Tampilan Keranjang
-![Tampilan Keranjang](screenshots/2.jpg)
-
-### 3. Screenshot Aplikasi 3
-![Screenshot Aplikasi 3](screenshots/3.jpg)
-
-### 4. Screenshot Aplikasi 4
-![Screenshot Aplikasi 4](screenshots/4.jpg)
-
-### 5. Screenshot Aplikasi 5
-![Screenshot Aplikasi 5](screenshots/5.jpg)
-
-## Cara Menjalankan
-
-```bash
-flutter pub get
-flutter run
+(screenshots/2.jpg)
+(screenshots/3.jpg)
+(screenshots/4.jpg)
+(screenshots/5.jpg)
